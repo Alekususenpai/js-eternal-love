@@ -1,1 +1,1 @@
-var alekusu = 5;
+var alekusu = 6;

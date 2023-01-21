@@ -1,0 +1,1 @@
+var alekusu = 5;

@@ -1,4 +1,4 @@
-## JavaScript Algorithms and Data Structures by freeCodeCamp
+## [JavaScript Algorithms and Data Structures by freeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 ### Overview of the course
 While HTML and CSS control the content and styling of a page, JavaScript is used to make it interactive. In the JavaScript Algorithm and Data Structures Certification, you'll learn the fundamentals of JavaScript including variables, arrays, objects, loops, and functions.
 
@@ -8,18 +8,24 @@ Along the way, you'll also learn two important programming styles or paradigms: 
 
 ### Major Topics:
 -Basic JavaScript
+
 -ES6
+
 -Regular Expressions
+
 -Debugging
+
 -Basic Data Structures
+
 -Basic Algorithm Scripting
+
 -Object Oriented Programming
+
 -Functional Programming
+
 -Intermediate Algorithm Scripting
+
 -JavaScript Algorithms and Data Structures Projects
-
-
-[Link to the course](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures)
 
 
 [My profile](https://www.freecodecamp.org/Alekusu)

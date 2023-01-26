@@ -9,23 +9,23 @@ Along the way, you'll also learn two important programming styles or paradigms: 
 ### Major Topics:
 -Basic JavaScript
 
--ES6
+- ES6
 
--Regular Expressions
+- Regular Expressions
 
--Debugging
+- Debugging
 
--Basic Data Structures
+- Basic Data Structures
 
--Basic Algorithm Scripting
+- Basic Algorithm Scripting
 
--Object Oriented Programming
+- Object Oriented Programming
 
--Functional Programming
+- Functional Programming
 
--Intermediate Algorithm Scripting
+- Intermediate Algorithm Scripting
 
--JavaScript Algorithms and Data Structures Projects
+- JavaScript Algorithms and Data Structures Projects
 
 
 [My profile](https://www.freecodecamp.org/Alekusu)

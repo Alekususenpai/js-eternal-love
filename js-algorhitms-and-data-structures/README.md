@@ -6,6 +6,7 @@ Here are my solutions for some of the tasks with a detailed explanation of how I
 
 
 
+
 ### Overview 
 
 While HTML and CSS control the content and styling of a page, JavaScript is used to make it interactive. In the JavaScript Algorithm and Data Structures Certification, you'll learn the fundamentals of JavaScript including variables, arrays, objects, loops, and functions.
@@ -15,6 +16,7 @@ Once you have the fundamentals down, you'll apply that knowledge by creating alg
 Along the way, you'll also learn two important programming styles or paradigms: Object Oriented Programming (OOP) and Functional Programming (FP). 
 
 It offers more than 300h of material and a free certification.
+
 
 
 

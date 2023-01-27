@@ -48,7 +48,7 @@ function updateRecords(records, id, prop, value) {
 
         /** 3. IF not, set the 'tracks' prop with the passed value */
       } else {
-        records[id][prop] = [value];
+        records[id][prop] = [value]; 
       }
 
       /** 2. IF the passed prop is not 'tracks', we proceed setting the passed prop and value on the correct object and property (id) */

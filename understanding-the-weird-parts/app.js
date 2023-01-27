@@ -1,1 +1,0 @@
-var alekusu = 7;

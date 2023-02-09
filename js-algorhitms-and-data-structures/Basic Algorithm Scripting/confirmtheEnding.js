@@ -29,7 +29,12 @@ function confirmEnding(str, target) {
     return false
 }
 
+// or
 
+
+function confirmEnding(str, target) {
+    return str.slice(-target.length) === target
+}
 
 
 confirmEnding("Walking on water and developing software from a specification are easy if both are frozen", "specification");

@@ -5,9 +5,17 @@ Repeat a given string str (first argument) for num times (second argument). Retu
  */
 
 function repeatStringNumTimes(str, num) {
+
+    // initialise an empty string variable
     let concat = '';
+
+    // while the number of repetitions is greater than 0, keep looping
     while (num > 0) {
+
+        // minus 1 from num each time
         num--;
+
+        // add the string to concat each time
         concat += str;
     }
     return concat;

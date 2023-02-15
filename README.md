@@ -1,4 +1,4 @@
-# Welcome to js-eternal-love!
+# Welcome to js-infernal-love!
 
 
 Want to know the answer to life, the universe, and everything??  What is the universe made of? ... How did life begin? ...
